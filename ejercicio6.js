@@ -17,13 +17,13 @@ console.log(mostrarAmigos())     //forma2
 //Función flecha / parámetro
 const perfil = {
   'apellidos'    : 'Padilla Bermudo',
-  'nombres'      : 'Ricardo Valero',
-  'edad'         :  38,
+  'nombres'      : 'Ricardo Valerio',
+  'edad'         :  20,
   'estaCasado'   :  false,
   'amigos'       :  ['Lorenzo', 'Joel', 'Mar'],
   'contacto'     :  {
     'telefono'   :  ['919198582'],
-    'ciudad'     : 'Chincha',
+    'ciudad'     : 'Argentina-Buenos Aires',
     'casaPropia' :  true
   },
   'skill'        :  function (){  
